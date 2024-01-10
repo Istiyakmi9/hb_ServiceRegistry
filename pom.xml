@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.bot.serviceregistry</groupId>
-	<artifactId>ServiceRegistry</artifactId>
+	<artifactId>hb_ServiceRegistry</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>ServiceRegistry</name>
+	<name>hb_ServiceRegistry</name>
 	<description>Service registry server for discover the clients</description>
 	<properties>
 		<java.version>17</java.version>
